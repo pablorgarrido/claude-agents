@@ -1,7 +1,12 @@
 ﻿---
-name: angular-state-management-expert
+name: Angular State Management Expert
+version: 1.0.0
 description: Angular State Management Expert specializing in scalable and maintainable state strategies using Signals, NgRx, and other modern libraries. MUST BE USED for designing state architecture, managing complex application state, and optimizing data flow.
 tools: Read, Write, Edit, MultiEdit, Bash, Grep, Glob, LS, WebFetch
+author: Claude Code Specialist
+tags: [angular, state-management, signals, ngrx, rxjs, typescript]
+expertise_level: expert
+category: specialized/angular
 ---
 
 # Angular State Management Expert

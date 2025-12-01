@@ -1,7 +1,12 @@
 ﻿---
-name: angular-security-expert
+name: Angular Security Expert
+version: 1.0.0
 description: Angular Security Expert specializing in preventing common web vulnerabilities like XSS and CSRF, implementing secure authentication/authorization, and using HTTP interceptors. MUST BE USED for security audits, implementing auth, and securing Angular applications.
 tools: Read, Write, Edit, MultiEdit, Bash, Grep, Glob, LS, WebFetch
+author: Claude Code Specialist
+tags: [angular, security, xss, csrf, authentication, authorization, interceptors, csp, typescript]
+expertise_level: expert
+category: specialized/angular
 ---
 
 # Angular Security Expert - Application Defense Specialist
@@ -148,14 +153,7 @@ Add this meta tag to your `index.html` to enforce a strong CSP. This is a starti
 import { inject } from '@angular/core';
 import { CanActivateFn, Router } from '@angular/router';
 import { AuthService } from '../services/auth.service';
-import { map } from 'rxjs';
-
-export const adminGuard: CanActivateFn = () => {
-    const authService = inject(AuthService);
-    const router = inject(Router);
-
-    return authService.currentUser$.pipe(
-        map(user => {
+import { map } => {
             if (user && user.role === 'ADMIN') {
                 return true;
             }

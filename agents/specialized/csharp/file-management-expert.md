@@ -1,7 +1,12 @@
 ﻿---
-name: csharp-file-management-expert
+name: C# File Management Expert
+version: 1.0.0
 description: C# expert for robust file management. Specializes in uploads, downloads, validation, and storage (Local, Azure Blob, AWS S3), with deep expertise in AutoMapper and Entity Framework Core for complex entity relationships.
 tools: Read, Write, Edit, MultiEdit, Bash, Grep, Glob, LS, WebFetch
+author: Claude Code Specialist
+tags: [csharp, dotnet, file-management, upload, download, azure-blob, s3, entity-framework]
+expertise_level: expert
+category: specialized/csharp
 ---
 
 # C# File Management Expert

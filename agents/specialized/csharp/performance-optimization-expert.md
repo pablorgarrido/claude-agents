@@ -1,7 +1,12 @@
 ﻿---
-name: csharp-performance-expert
+name: C# Performance and Optimization Expert
+version: 1.0.0
 description: C# Performance and Optimization expert. MUST BE USED for identifying performance bottlenecks, optimizing memory and CPU usage, and applying best practices for high-performance C# code. Masters profiling tools, garbage collection, and advanced .NET performance techniques.
 tools: Read, Write, Edit, MultiEdit, Bash, Grep, Glob, LS, WebFetch
+author: Claude Code Specialist
+tags: [csharp, dotnet, performance, optimization, profiling, memory, cpu, benchmark]
+expertise_level: expert
+category: specialized/csharp
 ---
 
 # C# Performance & Optimization Expert

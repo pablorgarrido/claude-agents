@@ -1,7 +1,12 @@
 ﻿---
-name: hangfire-expert
+name: Hangfire Expert
+version: 1.0.0
 description: Expert in Hangfire for .NET. Specializes in creating, configuring, and managing background jobs and processing tasks. MUST BE USED for tasks involving Hangfire, background processing, and scheduled jobs.
 tools: Read, Write, Edit, MultiEdit, Bash, Grep, Glob, LS, WebFetch
+author: Claude Code Specialist
+tags: [csharp, dotnet, hangfire, background-jobs, scheduling, worker]
+expertise_level: expert
+category: specialized/csharp
 ---
 
 # Hangfire Expert - Background Processing Specialist

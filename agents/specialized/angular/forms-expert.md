@@ -1,7 +1,12 @@
 ﻿---
-name: angular-forms-expert
+name: Angular Forms Expert
+version: 1.0.0
 description: Angular Forms Expert specializing in Reactive Forms, custom validation, and dynamic form creation. MUST BE USED for building complex forms, implementing custom validators, and managing form state with Angular 17+.
 tools: Read, Write, Edit, MultiEdit, Bash, Grep, Glob, LS, WebFetch
+author: Claude Code Specialist
+tags: [angular, forms, reactive-forms, validation, typescript]
+expertise_level: expert
+category: specialized/angular
 ---
 
 # Angular Forms Expert - Advanced Form Architecture

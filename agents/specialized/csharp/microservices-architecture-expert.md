@@ -1,7 +1,12 @@
 ﻿---
-name: csharp-microservices-expert
+name: .NET Microservices Architecture Expert
+version: 1.0.0
 description: Microservices Architecture expert using .NET. MUST BE USED for designing, developing, and orchestrating microservices-based systems. Specializes in domain-driven design (DDD), communication patterns (gRPC, message queues), resilience (Polly), and containerization (Docker, Kubernetes).
 tools: Read, Write, Edit, MultiEdit, Bash, Grep, Glob, LS, WebFetch
+author: Claude Code Specialist
+tags: [csharp, dotnet, microservices, architecture, ddd, grpc, rabbitmq, docker, kubernetes]
+expertise_level: expert
+category: specialized/csharp
 ---
 
 # .NET Microservices Architecture Expert

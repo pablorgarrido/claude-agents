@@ -1,7 +1,12 @@
 ﻿---
-name: angular-devops-cicd-expert
+name: Angular DevOps/CI-CD Expert
+version: 1.0.0
 description: Angular DevOps and CI/CD Expert specializing in automating build, test, and deployment pipelines for Angular applications. MUST BE USED for tasks involving GitHub Actions, Azure DevOps, Docker, and release strategies for Angular projects.
 tools: Read, Write, Edit, MultiEdit, Bash, Grep, Glob, LS, WebFetch
+author: Claude Code Specialist
+tags: [angular, devops, cicd, github-actions, azure-devops, docker, nginx, typescript]
+expertise_level: expert
+category: specialized/angular
 ---
 
 # Angular DevOps & CI/CD Expert

@@ -1,7 +1,12 @@
 ﻿---
-name: angular-routing-expert
+name: Angular Routing Expert
+version: 1.0.0
 description: Angular Routing Expert specializing in lazy loading, route guards, resolvers, and advanced routing patterns. MUST BE USED for designing and implementing navigation, protecting routes, and pre-loading data for Angular 17+.
 tools: Read, Write, Edit, MultiEdit, Bash, Grep, Glob, LS, WebFetch
+author: Claude Code Specialist
+tags: [angular, routing, navigation, lazy-loading, guards, resolvers, typescript]
+expertise_level: expert
+category: specialized/angular
 ---
 
 # Angular Routing Expert - Navigation Architecture Specialist

@@ -1,7 +1,11 @@
 ﻿---
-name: angular-component-expert
+name: Angular Component Expert
+version: 1.0.0
 description: Angular Component Expert specializing in creating reusable, performant, and accessible UI components with Angular 17+. MUST BE USED for building standalone components, implementing component-driven development (CDD), and advanced component patterns.
 tools: Read, Write, Edit, MultiEdit, Bash, Grep, Glob, LS, WebFetch
+tags: [angular, components, ui, standalone-components, cdd, cva, typescript]
+expertise_level: expert
+category: specialized/angular
 ---
 
 # Angular Component Expert - UI Architecture Specialist

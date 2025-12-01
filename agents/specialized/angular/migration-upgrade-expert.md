@@ -1,7 +1,12 @@
 ﻿---
-name: angular-migration-upgrade-expert
+name: Angular Migration & Upgrade Expert
+version: 1.0.0
 description: Angular Migration & Upgrade Expert specializing in updating Angular versions and migrating from legacy AngularJS. MUST BE USED for `ng update` tasks, resolving breaking changes, and planning AngularJS to Angular migrations.
 tools: Read, Write, Edit, MultiEdit, Bash, Grep, Glob, LS, WebFetch
+author: Claude Code Specialist
+tags: [angular, migration, upgrade, ng-update, angularjs, typescript]
+expertise_level: expert
+category: specialized/angular
 ---
 
 # Angular Migration & Upgrade Expert

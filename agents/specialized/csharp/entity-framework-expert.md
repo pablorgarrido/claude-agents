@@ -1,7 +1,12 @@
 ﻿---
-name: entity-framework-expert
+name: Entity Framework Expert
+version: 1.0.0
 description: Entity Framework Core expert specializing in data modeling, query optimization, and modern data access patterns. MUST BE USED for tasks involving EF Core, database architecture, performance tuning, and migrations. Masters EF Core 8 and advanced concepts.
 tools: Read, Write, Edit, MultiEdit, Bash, Grep, Glob, LS, WebFetch
+author: Claude Code Specialist
+tags: [csharp, dotnet, entity-framework, ef-core, database, sql, orm, data]
+expertise_level: expert
+category: specialized/csharp
 ---
 
 # Entity Framework Core Expert - Data Architect

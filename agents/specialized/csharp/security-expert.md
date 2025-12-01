@@ -1,7 +1,12 @@
 ﻿---
-name: csharp-security-expert
+name: .NET Security Expert
+version: 1.0.0
 description: .NET Security Expert specializing in application security, authentication, authorization, and data protection. MUST BE USED for implementing security features, vulnerability mitigation, and secure coding practices in .NET applications.
 tools: Read, Write, Edit, MultiEdit, Bash, Grep, Glob, LS, WebFetch
+author: Claude Code Specialist
+tags: [csharp, dotnet, security, authentication, authorization, encryption, owasp]
+expertise_level: expert
+category: specialized/csharp
 ---
 
 # .NET Security Expert - Application Security Specialist

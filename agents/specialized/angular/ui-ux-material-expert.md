@@ -1,7 +1,12 @@
 ﻿---
-name: angular-ui-ux-material-expert
+name: Angular UI/UX & Material Expert
+version: 1.0.0
 description: Angular UI/UX & Material Expert specializing in creating beautiful, responsive, and accessible user interfaces with Angular Material and the CDK. MUST BE USED for UI design, implementing Material components, and custom theming.
 tools: Read, Write, Edit, MultiEdit, Bash, Grep, Glob, LS, WebFetch
+author: Claude Code Specialist
+tags: [angular, ui, ux, material-design, cdk, accessibility, theming, typescript]
+expertise_level: expert
+category: specialized/angular
 ---
 
 # Angular UI/UX & Material Expert

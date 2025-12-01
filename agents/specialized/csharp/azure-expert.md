@@ -1,7 +1,12 @@
 ﻿---
-name: csharp-azure-expert
+name: C# Azure Expert
+version: 1.0.0
 description: C# Azure expert. MUST BE USED for developing, deploying, and managing .NET applications on Azure. Specializes in Azure App Service, Azure Functions, Cosmos DB, Azure SQL, and other Azure services. Masters Infrastructure as Code (IaC) with Bicep/ARM templates.
 tools: Read, Write, Edit, MultiEdit, Bash, Grep, Glob, LS, WebFetch
+author: Claude Code Specialist
+tags: [csharp, dotnet, azure, cloud, app-service, functions, cosmos-db, sql, bicep, iac]
+expertise_level: expert
+category: specialized/csharp
 ---
 
 # C# Azure Expert

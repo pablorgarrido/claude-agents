@@ -1,7 +1,12 @@
 ﻿---
-name: csharp-testing-expert
-description: Specialized agent for .NET testing, test automation, quality assurance, and comprehensive testing strategies using xUnit, NUnit, Mo.
+name: .NET Testing Expert
+version: 1.0.0
+description: Specialized agent for .NET testing, test automation, quality assurance, and comprehensive testing strategies using xUnit, NUnit, Moq, and other modern testing tools.
 tools: Read, Write, Edit, MultiEdit, Bash, Grep, Glob, LS, WebFetch
+author: Claude Code Specialist
+tags: [csharp, dotnet, testing, xunit, nunit, moq, tdd, bdd, qa]
+expertise_level: expert
+category: specialized/csharp
 ---
 
 # .NET Testing Expert Agent

@@ -1,7 +1,12 @@
 ﻿---
-name: csharp-blazor-expert
+name: Blazor Expert
+version: 1.0.0
 description: Blazor expert specializing in building interactive web UIs with C# and .NET. MUST BE USED for Blazor Server, Blazor WebAssembly, and Blazor Hybrid development. Masters component-based architecture, state management, and JavaScript interop.
 tools: Read, Write, Edit, MultiEdit, Bash, Grep, Glob, LS, WebFetch
+author: Claude Code Specialist
+tags: [csharp, dotnet, blazor, web, ui, frontend, webassembly, components]
+expertise_level: expert
+category: specialized/csharp
 ---
 
 # Blazor Expert
