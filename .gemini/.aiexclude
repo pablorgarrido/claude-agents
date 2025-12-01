@@ -1,0 +1,19 @@
+﻿# Ignorar segredos e configurações locais
+.env
+secrets.json
+
+# Ignorar dependências e virtualenvs
+node_modules/
+venv/
+/vendor/
+
+# Ignorar metadados de controle de versão
+.git/
+.hg/
+.svn/
+
+# Ignorar diretórios de build e cache
+/build/
+/dist/
+__pycache__/
+*.pyc

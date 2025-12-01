@@ -1,0 +1,13 @@
+﻿{
+  "conversationId": "2024-05-21_14-05-00",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Olá! Qual é o seu propósito?"
+    },
+    {
+      "role": "model",
+      "content": "Olá! Meu propósito é ajudar você a escrever código, responder perguntas e automatizar tarefas com base no contexto do seu projeto, seguindo as regras e personas definidas nos seus arquivos de configuração."
+    }
+  ]
+}

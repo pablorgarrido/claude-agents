@@ -1,0 +1,8 @@
+﻿{
+  "model": "gemini-1.5-pro",
+  "temperature": 0.7,
+  "contextFiles": [
+    "D:/Trabalho/Pessoal/claude-agents/agents/agents.md",
+    "D:/Trabalho/Pessoal/claude-agents/rules/rules.md"
+  ]
+}
