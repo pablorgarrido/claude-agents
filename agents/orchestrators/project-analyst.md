@@ -92,6 +92,8 @@ Without Context7, agents automatically use WebFetch to fetch documentation from 
 
 | Signal                               | Framework     | Confidence |
 |--------------------------------------|---------------|------------|
+| `angular.json` or `@angular/core` in `package.json` | Angular | High |
+| `.csproj` or `.sln` files | .NET (C#) | High |
 | `laravel/framework` in composer.json | Laravel       | High       |
 | `django` in requirements.txt         | Django        | High       |
 | `Gemfile` with `rails`               | Rails         | High       |

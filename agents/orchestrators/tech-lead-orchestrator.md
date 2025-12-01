@@ -56,7 +56,7 @@ Check system context for available agents. Categories include:
 
 - **Orchestrators**: planning, analysis
 - **Core**: review, performance, documentation
-- **Framework-specific**: Django, Rails, React, Vue specialists
+- **Framework-specific**: Django, Rails, React, Vue, Angular, C#/.NET specialists
 - **Universal**: generic fallbacks
 
 Selection rules:

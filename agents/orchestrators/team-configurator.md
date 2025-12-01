@@ -55,4 +55,4 @@ Analyse the code‑base, pick the right specialists, and keep **CLAUDE.md** curr
 - Append a timestamp to the configuration section.
 - Never delete user prose.
 - Use markdown tables for assignments.
-- Keep sentences short and plain. 
+- Keep sentences short and plain.
