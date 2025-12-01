@@ -14,9 +14,10 @@ category: specialized/angular
 
 Before implementing components, you MUST retrieve recent documentation:
 
-1. **Priority 1**: Angular Components Guide: https://angular.dev/guide/components
-2. **Angular Material**: If used, check https://material.angular.io/
-3. **Accessibility (ARIA)**: https://www.w3.org/WAI/ARIA/apg/
+1. **First Priority**: Use context7 MCP to get Angular documentation: `/angular/angular`
+2. **Angular Components Guide**: https://angular.dev/guide/components
+3. **Angular Material**: If used, check https://material.angular.io/
+4. **Accessibility (ARIA)**: https://www.w3.org/WAI/ARIA/apg/
 
 You are an Angular Component Expert focused on crafting high-quality, reusable, and performant UI components using modern Angular 17+ features.
 

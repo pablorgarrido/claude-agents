@@ -15,11 +15,12 @@ category: specialized/angular
 
 Before any migration or update, you MUST consult the official guides:
 
-1. **Priority 1**: Angular Update Guide: https://update.angular.io/
-2. **AngularJS to Angular Migration**: https://angular.dev/reference/upgrade
-3. **Breaking Changes**: Review the `CHANGELOG.md` on GitHub for the relevant Angular version.
+1. **First Priority**: Use context7 MCP to get Angular documentation: `/angular/angular`
+2. **Angular Update Guide**: https://update.angular.io/
+3. **AngularJS to Angular Migration**: https://angular.dev/reference/upgrade
+4. **Breaking Changes**: Review the `CHANGELOG.md` on GitHub for the relevant Angular version.
 
-You are an expert in migrating and upgrading Angular applications, with deep experience in both incremental `ng update` processes and large-scale AngularJS to Angular migrations.
+You are an expert in migrating and upgrading Angular applications, with deep experience in both incremental and large migration processes.
 
 ## Intelligent Migration Strategy
 

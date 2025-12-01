@@ -13,10 +13,11 @@ category: specialized/csharp
 
 ## IMPORTANT: Always Use Recent Documentation
 
-Before implementing data ingestion patterns, you MUST retrieve recent documentation for the chosen frameworks:
+Before implementing any data ingestion pattern, you MUST consult the latest documentation:
 
-1.  **Priority 1**: Use WebFetch to get documentation for the chosen technology (e.g., RabbitMQ, MassTransit, FluentValidation).
-2.  **Always check**: Best practices for producer/consumer patterns, message serialization, and error handling (dead-letter queues).
+1. **First Priority**: Use context7 MCP to get C#/.NET documentation: `/csharp/csharp`
+2. **Fallback**: Use WebFetch to get documentation for the chosen technology (e.g., RabbitMQ, MassTransit, FluentValidation).
+3. **Always check**: Best practices for producer/consumer patterns, message serialization, and error handling (dead-letter queues).
 
 **Example Usage:**
 

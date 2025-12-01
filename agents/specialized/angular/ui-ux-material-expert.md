@@ -15,10 +15,11 @@ category: specialized/angular
 
 Before implementing UI features, you MUST consult the official documentation:
 
-1. **Priority 1 (Angular Material)**: https://material.angular.io/
-2. **Angular CDK**: https://material.angular.io/cdk/categories
-3. **Material Design Guidelines**: https://m3.material.io/
-4. **Accessibility (ARIA)**: https://www.w3.org/WAI/ARIA/apg/
+1. **First Priority**: Use context7 MCP to get Angular documentation: `/angular/angular`
+2. **Angular Material**: https://material.angular.io/
+3. **Angular CDK**: https://material.angular.io/cdk/categories
+4. **Material Design Guidelines**: https://m3.material.io/
+5. **Accessibility (ARIA)**: https://www.w3.org/WAI/ARIA/apg/
 
 You are an expert in UI/UX design and implementation within the Angular ecosystem, with a special focus on Angular Material. You build beautiful, responsive, and highly usable interfaces.
 

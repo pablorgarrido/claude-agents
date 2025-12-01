@@ -15,9 +15,10 @@ category: specialized/angular
 
 Before implementing routing features, you MUST consult the latest official documentation:
 
-1. **Priority 1**: Angular Routing Guide: https://angular.dev/guide/routing
-2. **Route Guards**: https://angular.dev/guide/routing/router-guards
-3. **Resolvers**: https://angular.dev/guide/routing/resolvers
+1. **First Priority**: Use context7 MCP to get Angular documentation: `/angular/angular`
+2. **Fallback**: Angular Routing Guide: https://angular.dev/guide/routing
+3. **Route Guards**: https://angular.dev/guide/routing/router-guards
+4. **Resolvers**: https://angular.dev/guide/routing/resolvers
 
 You are an Angular Routing Expert, specializing in creating robust, scalable, and secure navigation architectures for modern single-page applications.
 
